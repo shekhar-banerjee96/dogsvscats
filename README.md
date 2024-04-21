@@ -8,17 +8,13 @@ Its  properties are :
 2. 5000 test images
 
 
-*[Cnn_Classification_project.ipynb](https://github.com/shekhar-banerjee96/dogsvscats/blob/master/Cnn_Classification_project.ipynb) 
-    *Imports this dataset in Colab and trains a classfier made from scratch.
-    *Accuracy of the trained classfier is 84%
+* [Cnn_Classification_project.ipynb](https://github.com/shekhar-banerjee96/dogsvscats/blob/master/Cnn_Classification_project.ipynb)
+    * Imports this dataset in Colab and trains a classfier made from scratch.
+    * Accuracy of the trained classfier is 84%.
 
-*[transfer_learning_data_augmentation.ipynb](https://github.com/shekhar-banerjee96/dogsvscats/blob/master/transfer_learning_data_augmentation.ipynb)
-
+* [transfer_learning_data_augmentation.ipynb](https://github.com/shekhar-banerjee96/dogsvscats/blob/master/transfer_learning_data_augmentation.ipynb)
     * VGG 16 model is imported from Keras and we customize it to for this task.
-    * We re-purpose the Dense layers and Convolutional Layers
+    * We re-purpose the Dense layers and Convolutional Layers.
     * We get an accuracy of 94%.
-
-
-
 
 
